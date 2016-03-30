@@ -1,0 +1,14 @@
+﻿.block {
+    position:absolute;
+	border-width:1px;
+	border-style:double;
+    width:370px;
+    height:75px;
+	margin-left:70px;
+	margin-top:12px;
+	background-color:#398457;
+	text-align:center;
+	word-spacing:10px;
+	border-radius:15px;
+	box-shadow:1px 5px 5px 1px #010101;
+	}
